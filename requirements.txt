@@ -1,4 +1,4 @@
-kivy==2.0.0rc4
+kivy_deps.sdl2_dev
 https://github.com/kivymd/KivyMD/archive/master.zip
 youtube-search-python
 googletrans
